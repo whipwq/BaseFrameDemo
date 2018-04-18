@@ -58,7 +58,6 @@
 		593170B91FC6CCE20062D81E /* WQTempItem4.m in Sources */ = {isa = PBXBuildFile; fileRef = 593170B81FC6CCE20062D81E /* WQTempItem4.m */; };
 		5945C9611FC7F4FD002DD496 /* WQTempItem1.m in Sources */ = {isa = PBXBuildFile; fileRef = 5945C95F1FC7F4FD002DD496 /* WQTempItem1.m */; };
 		5945C9621FC7F4FD002DD496 /* WQTempItem1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5945C9601FC7F4FD002DD496 /* WQTempItem1.xib */; };
-		5948A31F20131A140011EC01 /* WQHttpUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 5948A31E20131A140011EC01 /* WQHttpUtil.m */; };
 		597555EF1FCBAA2A00EDE428 /* UIView+CMKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 597555EE1FCBAA2A00EDE428 /* UIView+CMKit.m */; };
 /* End PBXBuildFile section */
 
@@ -185,8 +184,6 @@
 		5945C95E1FC7F4FD002DD496 /* WQTempItem1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQTempItem1.h; sourceTree = "<group>"; };
 		5945C95F1FC7F4FD002DD496 /* WQTempItem1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQTempItem1.m; sourceTree = "<group>"; };
 		5945C9601FC7F4FD002DD496 /* WQTempItem1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WQTempItem1.xib; sourceTree = "<group>"; };
-		5948A31D20131A140011EC01 /* WQHttpUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQHttpUtil.h; sourceTree = "<group>"; };
-		5948A31E20131A140011EC01 /* WQHttpUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQHttpUtil.m; sourceTree = "<group>"; };
 		597555ED1FCBAA2A00EDE428 /* UIView+CMKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CMKit.h"; sourceTree = "<group>"; };
 		597555EE1FCBAA2A00EDE428 /* UIView+CMKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CMKit.m"; sourceTree = "<group>"; };
 		BA5A7435C74DFE66B3FA435B /* Pods-WQBaseFrameDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQBaseFrameDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WQBaseFrameDemo/Pods-WQBaseFrameDemo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -430,8 +427,6 @@
 		593170381FC66DC80062D81E /* NetWork */ = {
 			isa = PBXGroup;
 			children = (
-				5948A31D20131A140011EC01 /* WQHttpUtil.h */,
-				5948A31E20131A140011EC01 /* WQHttpUtil.m */,
 			);
 			path = NetWork;
 			sourceTree = "<group>";
@@ -949,7 +944,6 @@
 				5931705F1FC67AF60062D81E /* UIWebView+WYWebView.m in Sources */,
 				591D6685201B30EA0030B874 /* IQUITextFieldView+Additions.m in Sources */,
 				5931707A1FC6987E0062D81E /* WQBaseNavigationController.m in Sources */,
-				5948A31F20131A140011EC01 /* WQHttpUtil.m in Sources */,
 				5931705C1FC67AF50062D81E /* UIScrollView+WYScrollView.m in Sources */,
 				593170841FC698B70062D81E /* RECommonFunctions.m in Sources */,
 				591D6686201B30EA0030B874 /* IQUIView+Hierarchy.m in Sources */,
