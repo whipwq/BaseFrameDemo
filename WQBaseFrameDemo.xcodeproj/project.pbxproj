@@ -8,6 +8,37 @@
 
 /* Begin PBXBuildFile section */
 		49284367D632311B5BDBE4D6 /* libPods-WQBaseFrameDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0B2DC08B13BF68344992C76 /* libPods-WQBaseFrameDemo.a */; };
+		590DF54B2176E4F30002EE22 /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF52D2176E4F30002EE22 /* NSBundle+TZImagePicker.m */; };
+		590DF54C2176E4F30002EE22 /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF52F2176E4F30002EE22 /* TZAssetCell.m */; };
+		590DF54D2176E4F30002EE22 /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5312176E4F30002EE22 /* TZAssetModel.m */; };
+		590DF54E2176E4F30002EE22 /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5332176E4F30002EE22 /* TZGifPhotoPreviewController.m */; };
+		590DF54F2176E4F30002EE22 /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5352176E4F30002EE22 /* TZImageCropManager.m */; };
+		590DF5502176E4F30002EE22 /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5372176E4F30002EE22 /* TZImageManager.m */; };
+		590DF5512176E4F30002EE22 /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 590DF5382176E4F30002EE22 /* TZImagePickerController.bundle */; };
+		590DF5522176E4F30002EE22 /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF53A2176E4F30002EE22 /* TZImagePickerController.m */; };
+		590DF5532176E4F30002EE22 /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF53C2176E4F30002EE22 /* TZLocationManager.m */; };
+		590DF5542176E4F30002EE22 /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF53E2176E4F30002EE22 /* TZPhotoPickerController.m */; };
+		590DF5552176E4F30002EE22 /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5402176E4F30002EE22 /* TZPhotoPreviewCell.m */; };
+		590DF5562176E4F30002EE22 /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5422176E4F30002EE22 /* TZPhotoPreviewController.m */; };
+		590DF5572176E4F30002EE22 /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5442176E4F30002EE22 /* TZProgressView.m */; };
+		590DF5582176E4F30002EE22 /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5462176E4F30002EE22 /* TZVideoPlayerController.m */; };
+		590DF5592176E4F30002EE22 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF5482176E4F30002EE22 /* UIView+Layout.m */; };
+		590DF55A2176E4F30002EE22 /* WQImagePickerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF54A2176E4F30002EE22 /* WQImagePickerManager.m */; };
+		590DF575217713F50002EE22 /* Camera_Turn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 590DF55D217713F50002EE22 /* Camera_Turn@2x.png */; };
+		590DF576217713F50002EE22 /* Delete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 590DF55E217713F50002EE22 /* Delete@2x.png */; };
+		590DF577217713F50002EE22 /* focus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 590DF55F217713F50002EE22 /* focus@2x.png */; };
+		590DF578217713F50002EE22 /* Play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 590DF560217713F50002EE22 /* Play@2x.png */; };
+		590DF579217713F50002EE22 /* UTLiteCameraConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF562217713F50002EE22 /* UTLiteCameraConfiguration.m */; };
+		590DF57A217713F50002EE22 /* UTLiteCameraManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF564217713F50002EE22 /* UTLiteCameraManager.m */; };
+		590DF57B217713F50002EE22 /* UIImage+UTLiteCameraPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF567217713F50002EE22 /* UIImage+UTLiteCameraPlayer.m */; };
+		590DF57C217713F50002EE22 /* UTLiteCameraPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF569217713F50002EE22 /* UTLiteCameraPlayerView.m */; };
+		590DF57D217713F50002EE22 /* UTLiteCameraPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF56B217713F50002EE22 /* UTLiteCameraPlayerViewController.m */; };
+		590DF57E217713F50002EE22 /* UTLiteCameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF56D217713F50002EE22 /* UTLiteCameraViewController.m */; };
+		590DF57F217713F50002EE22 /* UTLiteCameraProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF570217713F50002EE22 /* UTLiteCameraProgressView.m */; };
+		590DF580217713F50002EE22 /* UTLiteCameraRecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF572217713F50002EE22 /* UTLiteCameraRecoder.m */; };
+		590DF581217713F50002EE22 /* UTLiteCameraSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF574217713F50002EE22 /* UTLiteCameraSession.m */; };
+		590DF586217714150002EE22 /* UTButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF584217714150002EE22 /* UTButton.m */; };
+		590DF587217714150002EE22 /* UTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 590DF585217714150002EE22 /* UTViewController.m */; };
 		591D6655201B02F60030B874 /* UIViewController+TunTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D6654201B02F60030B874 /* UIViewController+TunTransition.m */; };
 		591D665D201B24B20030B874 /* CALayer+XibConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D665C201B24B20030B874 /* CALayer+XibConfiguration.m */; };
 		591D6683201B30EA0030B874 /* IQNSArray+Sort.m in Sources */ = {isa = PBXBuildFile; fileRef = 591D6661201B30EA0030B874 /* IQNSArray+Sort.m */; };
@@ -58,6 +89,13 @@
 		593170B91FC6CCE20062D81E /* WQTempItem4.m in Sources */ = {isa = PBXBuildFile; fileRef = 593170B81FC6CCE20062D81E /* WQTempItem4.m */; };
 		5945C9611FC7F4FD002DD496 /* WQTempItem1.m in Sources */ = {isa = PBXBuildFile; fileRef = 5945C95F1FC7F4FD002DD496 /* WQTempItem1.m */; };
 		5945C9621FC7F4FD002DD496 /* WQTempItem1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5945C9601FC7F4FD002DD496 /* WQTempItem1.xib */; };
+		5955AFE921781C15000A1405 /* utouu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5955AFDF21781C15000A1405 /* utouu@2x.png */; };
+		5955AFEA21781C15000A1405 /* UTUpdateAlertTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 5955AFE121781C15000A1405 /* UTUpdateAlertTool.m */; };
+		5955AFEB21781C15000A1405 /* UTUpdateAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5955AFE321781C15000A1405 /* UTUpdateAlertView.m */; };
+		5955AFEC21781C15000A1405 /* UTUpdateAlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5955AFE521781C15000A1405 /* UTUpdateAlertViewController.m */; };
+		5955AFED21781C15000A1405 /* UTVersionUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5955AFE821781C15000A1405 /* UTVersionUpdate.m */; };
+		5955AFF421781CEC000A1405 /* UPDateVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5955AFF221781CEC000A1405 /* UPDateVC.m */; };
+		5955AFF521781CEC000A1405 /* UPDateVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5955AFF321781CEC000A1405 /* UPDateVC.xib */; };
 		597555EF1FCBAA2A00EDE428 /* UIView+CMKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 597555EE1FCBAA2A00EDE428 /* UIView+CMKit.m */; };
 /* End PBXBuildFile section */
 
@@ -80,6 +118,63 @@
 
 /* Begin PBXFileReference section */
 		124D9D832CFE98F121D40122 /* Pods-WQBaseFrameDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQBaseFrameDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-WQBaseFrameDemo/Pods-WQBaseFrameDemo.release.xcconfig"; sourceTree = "<group>"; };
+		590DF52C2176E4F30002EE22 /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
+		590DF52D2176E4F30002EE22 /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
+		590DF52E2176E4F30002EE22 /* TZAssetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
+		590DF52F2176E4F30002EE22 /* TZAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
+		590DF5302176E4F30002EE22 /* TZAssetModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
+		590DF5312176E4F30002EE22 /* TZAssetModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
+		590DF5322176E4F30002EE22 /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
+		590DF5332176E4F30002EE22 /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
+		590DF5342176E4F30002EE22 /* TZImageCropManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
+		590DF5352176E4F30002EE22 /* TZImageCropManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
+		590DF5362176E4F30002EE22 /* TZImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
+		590DF5372176E4F30002EE22 /* TZImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
+		590DF5382176E4F30002EE22 /* TZImagePickerController.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TZImagePickerController.bundle; sourceTree = "<group>"; };
+		590DF5392176E4F30002EE22 /* TZImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
+		590DF53A2176E4F30002EE22 /* TZImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
+		590DF53B2176E4F30002EE22 /* TZLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
+		590DF53C2176E4F30002EE22 /* TZLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
+		590DF53D2176E4F30002EE22 /* TZPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
+		590DF53E2176E4F30002EE22 /* TZPhotoPickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
+		590DF53F2176E4F30002EE22 /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
+		590DF5402176E4F30002EE22 /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
+		590DF5412176E4F30002EE22 /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
+		590DF5422176E4F30002EE22 /* TZPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewController.m; sourceTree = "<group>"; };
+		590DF5432176E4F30002EE22 /* TZProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
+		590DF5442176E4F30002EE22 /* TZProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
+		590DF5452176E4F30002EE22 /* TZVideoPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
+		590DF5462176E4F30002EE22 /* TZVideoPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
+		590DF5472176E4F30002EE22 /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
+		590DF5482176E4F30002EE22 /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
+		590DF5492176E4F30002EE22 /* WQImagePickerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQImagePickerManager.h; sourceTree = "<group>"; };
+		590DF54A2176E4F30002EE22 /* WQImagePickerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQImagePickerManager.m; sourceTree = "<group>"; };
+		590DF55D217713F50002EE22 /* Camera_Turn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Camera_Turn@2x.png"; sourceTree = "<group>"; };
+		590DF55E217713F50002EE22 /* Delete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete@2x.png"; sourceTree = "<group>"; };
+		590DF55F217713F50002EE22 /* focus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "focus@2x.png"; sourceTree = "<group>"; };
+		590DF560217713F50002EE22 /* Play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Play@2x.png"; sourceTree = "<group>"; };
+		590DF561217713F50002EE22 /* UTLiteCameraConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraConfiguration.h; sourceTree = "<group>"; };
+		590DF562217713F50002EE22 /* UTLiteCameraConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraConfiguration.m; sourceTree = "<group>"; };
+		590DF563217713F50002EE22 /* UTLiteCameraManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraManager.h; sourceTree = "<group>"; };
+		590DF564217713F50002EE22 /* UTLiteCameraManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraManager.m; sourceTree = "<group>"; };
+		590DF566217713F50002EE22 /* UIImage+UTLiteCameraPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+UTLiteCameraPlayer.h"; sourceTree = "<group>"; };
+		590DF567217713F50002EE22 /* UIImage+UTLiteCameraPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+UTLiteCameraPlayer.m"; sourceTree = "<group>"; };
+		590DF568217713F50002EE22 /* UTLiteCameraPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraPlayerView.h; sourceTree = "<group>"; };
+		590DF569217713F50002EE22 /* UTLiteCameraPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraPlayerView.m; sourceTree = "<group>"; };
+		590DF56A217713F50002EE22 /* UTLiteCameraPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraPlayerViewController.h; sourceTree = "<group>"; };
+		590DF56B217713F50002EE22 /* UTLiteCameraPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraPlayerViewController.m; sourceTree = "<group>"; };
+		590DF56C217713F50002EE22 /* UTLiteCameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraViewController.h; sourceTree = "<group>"; };
+		590DF56D217713F50002EE22 /* UTLiteCameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraViewController.m; sourceTree = "<group>"; };
+		590DF56F217713F50002EE22 /* UTLiteCameraProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraProgressView.h; sourceTree = "<group>"; };
+		590DF570217713F50002EE22 /* UTLiteCameraProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraProgressView.m; sourceTree = "<group>"; };
+		590DF571217713F50002EE22 /* UTLiteCameraRecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraRecoder.h; sourceTree = "<group>"; };
+		590DF572217713F50002EE22 /* UTLiteCameraRecoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraRecoder.m; sourceTree = "<group>"; };
+		590DF573217713F50002EE22 /* UTLiteCameraSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTLiteCameraSession.h; sourceTree = "<group>"; };
+		590DF574217713F50002EE22 /* UTLiteCameraSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTLiteCameraSession.m; sourceTree = "<group>"; };
+		590DF582217714150002EE22 /* UTButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTButton.h; sourceTree = "<group>"; };
+		590DF583217714150002EE22 /* UTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTViewController.h; sourceTree = "<group>"; };
+		590DF584217714150002EE22 /* UTButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTButton.m; sourceTree = "<group>"; };
+		590DF585217714150002EE22 /* UTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTViewController.m; sourceTree = "<group>"; };
 		591D6653201B02F60030B874 /* UIViewController+TunTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+TunTransition.h"; sourceTree = "<group>"; };
 		591D6654201B02F60030B874 /* UIViewController+TunTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+TunTransition.m"; sourceTree = "<group>"; };
 		591D665B201B24B20030B874 /* CALayer+XibConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+XibConfiguration.h"; sourceTree = "<group>"; };
@@ -184,6 +279,19 @@
 		5945C95E1FC7F4FD002DD496 /* WQTempItem1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQTempItem1.h; sourceTree = "<group>"; };
 		5945C95F1FC7F4FD002DD496 /* WQTempItem1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQTempItem1.m; sourceTree = "<group>"; };
 		5945C9601FC7F4FD002DD496 /* WQTempItem1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WQTempItem1.xib; sourceTree = "<group>"; };
+		5955AFDF21781C15000A1405 /* utouu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "utouu@2x.png"; sourceTree = "<group>"; };
+		5955AFE021781C15000A1405 /* UTUpdateAlertTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTUpdateAlertTool.h; sourceTree = "<group>"; };
+		5955AFE121781C15000A1405 /* UTUpdateAlertTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTUpdateAlertTool.m; sourceTree = "<group>"; };
+		5955AFE221781C15000A1405 /* UTUpdateAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTUpdateAlertView.h; sourceTree = "<group>"; };
+		5955AFE321781C15000A1405 /* UTUpdateAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTUpdateAlertView.m; sourceTree = "<group>"; };
+		5955AFE421781C15000A1405 /* UTUpdateAlertViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTUpdateAlertViewController.h; sourceTree = "<group>"; };
+		5955AFE521781C15000A1405 /* UTUpdateAlertViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTUpdateAlertViewController.m; sourceTree = "<group>"; };
+		5955AFE621781C15000A1405 /* UTUpdateConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTUpdateConfig.h; sourceTree = "<group>"; };
+		5955AFE721781C15000A1405 /* UTVersionUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UTVersionUpdate.h; sourceTree = "<group>"; };
+		5955AFE821781C15000A1405 /* UTVersionUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UTVersionUpdate.m; sourceTree = "<group>"; };
+		5955AFF121781CEC000A1405 /* UPDateVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UPDateVC.h; sourceTree = "<group>"; };
+		5955AFF221781CEC000A1405 /* UPDateVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UPDateVC.m; sourceTree = "<group>"; };
+		5955AFF321781CEC000A1405 /* UPDateVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UPDateVC.xib; sourceTree = "<group>"; };
 		597555ED1FCBAA2A00EDE428 /* UIView+CMKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CMKit.h"; sourceTree = "<group>"; };
 		597555EE1FCBAA2A00EDE428 /* UIView+CMKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CMKit.m"; sourceTree = "<group>"; };
 		BA5A7435C74DFE66B3FA435B /* Pods-WQBaseFrameDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQBaseFrameDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WQBaseFrameDemo/Pods-WQBaseFrameDemo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -216,6 +324,109 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		590DF52A2176E4F30002EE22 /* WQImagePicker */ = {
+			isa = PBXGroup;
+			children = (
+				590DF52B2176E4F30002EE22 /* TZImagePickerController */,
+				590DF5492176E4F30002EE22 /* WQImagePickerManager.h */,
+				590DF54A2176E4F30002EE22 /* WQImagePickerManager.m */,
+			);
+			path = WQImagePicker;
+			sourceTree = "<group>";
+		};
+		590DF52B2176E4F30002EE22 /* TZImagePickerController */ = {
+			isa = PBXGroup;
+			children = (
+				590DF52C2176E4F30002EE22 /* NSBundle+TZImagePicker.h */,
+				590DF52D2176E4F30002EE22 /* NSBundle+TZImagePicker.m */,
+				590DF52E2176E4F30002EE22 /* TZAssetCell.h */,
+				590DF52F2176E4F30002EE22 /* TZAssetCell.m */,
+				590DF5302176E4F30002EE22 /* TZAssetModel.h */,
+				590DF5312176E4F30002EE22 /* TZAssetModel.m */,
+				590DF5322176E4F30002EE22 /* TZGifPhotoPreviewController.h */,
+				590DF5332176E4F30002EE22 /* TZGifPhotoPreviewController.m */,
+				590DF5342176E4F30002EE22 /* TZImageCropManager.h */,
+				590DF5352176E4F30002EE22 /* TZImageCropManager.m */,
+				590DF5362176E4F30002EE22 /* TZImageManager.h */,
+				590DF5372176E4F30002EE22 /* TZImageManager.m */,
+				590DF5382176E4F30002EE22 /* TZImagePickerController.bundle */,
+				590DF5392176E4F30002EE22 /* TZImagePickerController.h */,
+				590DF53A2176E4F30002EE22 /* TZImagePickerController.m */,
+				590DF53B2176E4F30002EE22 /* TZLocationManager.h */,
+				590DF53C2176E4F30002EE22 /* TZLocationManager.m */,
+				590DF53D2176E4F30002EE22 /* TZPhotoPickerController.h */,
+				590DF53E2176E4F30002EE22 /* TZPhotoPickerController.m */,
+				590DF53F2176E4F30002EE22 /* TZPhotoPreviewCell.h */,
+				590DF5402176E4F30002EE22 /* TZPhotoPreviewCell.m */,
+				590DF5412176E4F30002EE22 /* TZPhotoPreviewController.h */,
+				590DF5422176E4F30002EE22 /* TZPhotoPreviewController.m */,
+				590DF5432176E4F30002EE22 /* TZProgressView.h */,
+				590DF5442176E4F30002EE22 /* TZProgressView.m */,
+				590DF5452176E4F30002EE22 /* TZVideoPlayerController.h */,
+				590DF5462176E4F30002EE22 /* TZVideoPlayerController.m */,
+				590DF5472176E4F30002EE22 /* UIView+Layout.h */,
+				590DF5482176E4F30002EE22 /* UIView+Layout.m */,
+			);
+			path = TZImagePickerController;
+			sourceTree = "<group>";
+		};
+		590DF55B217713D80002EE22 /* 小视频录制 */ = {
+			isa = PBXGroup;
+			children = (
+				590DF582217714150002EE22 /* UTButton.h */,
+				590DF584217714150002EE22 /* UTButton.m */,
+				590DF583217714150002EE22 /* UTViewController.h */,
+				590DF585217714150002EE22 /* UTViewController.m */,
+				590DF55C217713F50002EE22 /* UTLiteCamera */,
+			);
+			path = "小视频录制";
+			sourceTree = "<group>";
+		};
+		590DF55C217713F50002EE22 /* UTLiteCamera */ = {
+			isa = PBXGroup;
+			children = (
+				590DF55D217713F50002EE22 /* Camera_Turn@2x.png */,
+				590DF55E217713F50002EE22 /* Delete@2x.png */,
+				590DF55F217713F50002EE22 /* focus@2x.png */,
+				590DF560217713F50002EE22 /* Play@2x.png */,
+				590DF561217713F50002EE22 /* UTLiteCameraConfiguration.h */,
+				590DF562217713F50002EE22 /* UTLiteCameraConfiguration.m */,
+				590DF563217713F50002EE22 /* UTLiteCameraManager.h */,
+				590DF564217713F50002EE22 /* UTLiteCameraManager.m */,
+				590DF565217713F50002EE22 /* UTLiteCameraPlayer */,
+				590DF56C217713F50002EE22 /* UTLiteCameraViewController.h */,
+				590DF56D217713F50002EE22 /* UTLiteCameraViewController.m */,
+				590DF56E217713F50002EE22 /* UTLiteCameraWriter */,
+			);
+			path = UTLiteCamera;
+			sourceTree = "<group>";
+		};
+		590DF565217713F50002EE22 /* UTLiteCameraPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				590DF566217713F50002EE22 /* UIImage+UTLiteCameraPlayer.h */,
+				590DF567217713F50002EE22 /* UIImage+UTLiteCameraPlayer.m */,
+				590DF568217713F50002EE22 /* UTLiteCameraPlayerView.h */,
+				590DF569217713F50002EE22 /* UTLiteCameraPlayerView.m */,
+				590DF56A217713F50002EE22 /* UTLiteCameraPlayerViewController.h */,
+				590DF56B217713F50002EE22 /* UTLiteCameraPlayerViewController.m */,
+			);
+			path = UTLiteCameraPlayer;
+			sourceTree = "<group>";
+		};
+		590DF56E217713F50002EE22 /* UTLiteCameraWriter */ = {
+			isa = PBXGroup;
+			children = (
+				590DF56F217713F50002EE22 /* UTLiteCameraProgressView.h */,
+				590DF570217713F50002EE22 /* UTLiteCameraProgressView.m */,
+				590DF571217713F50002EE22 /* UTLiteCameraRecoder.h */,
+				590DF572217713F50002EE22 /* UTLiteCameraRecoder.m */,
+				590DF573217713F50002EE22 /* UTLiteCameraSession.h */,
+				590DF574217713F50002EE22 /* UTLiteCameraSession.m */,
+			);
+			path = UTLiteCameraWriter;
+			sourceTree = "<group>";
+		};
 		591D665E201B30EA0030B874 /* IQKeyboardManager */ = {
 			isa = PBXGroup;
 			children = (
@@ -397,6 +608,7 @@
 		593170351FC66DC80062D81E /* Libs */ = {
 			isa = PBXGroup;
 			children = (
+				590DF52A2176E4F30002EE22 /* WQImagePicker */,
 				5931707D1FC698B70062D81E /* RESideMenu */,
 				5931703C1FC6704B0062D81E /* Toast */,
 			);
@@ -508,6 +720,8 @@
 		593170661FC67CAF0062D81E /* Item1 */ = {
 			isa = PBXGroup;
 			children = (
+				5955AFDD21781BEA000A1405 /* 自动更新 */,
+				590DF55B217713D80002EE22 /* 小视频录制 */,
 				5931708D1FC699D90062D81E /* Controller */,
 				5931708E1FC699D90062D81E /* Model */,
 				5931708F1FC699D90062D81E /* VIew */,
@@ -706,6 +920,34 @@
 			path = VIew;
 			sourceTree = "<group>";
 		};
+		5955AFDD21781BEA000A1405 /* 自动更新 */ = {
+			isa = PBXGroup;
+			children = (
+				5955AFDE21781C15000A1405 /* UTUpdate */,
+			);
+			path = "自动更新";
+			sourceTree = "<group>";
+		};
+		5955AFDE21781C15000A1405 /* UTUpdate */ = {
+			isa = PBXGroup;
+			children = (
+				5955AFDF21781C15000A1405 /* utouu@2x.png */,
+				5955AFE021781C15000A1405 /* UTUpdateAlertTool.h */,
+				5955AFE121781C15000A1405 /* UTUpdateAlertTool.m */,
+				5955AFE221781C15000A1405 /* UTUpdateAlertView.h */,
+				5955AFE321781C15000A1405 /* UTUpdateAlertView.m */,
+				5955AFE421781C15000A1405 /* UTUpdateAlertViewController.h */,
+				5955AFE521781C15000A1405 /* UTUpdateAlertViewController.m */,
+				5955AFE621781C15000A1405 /* UTUpdateConfig.h */,
+				5955AFE721781C15000A1405 /* UTVersionUpdate.h */,
+				5955AFE821781C15000A1405 /* UTVersionUpdate.m */,
+				5955AFF121781CEC000A1405 /* UPDateVC.h */,
+				5955AFF221781CEC000A1405 /* UPDateVC.m */,
+				5955AFF321781CEC000A1405 /* UPDateVC.xib */,
+			);
+			path = UTUpdate;
+			sourceTree = "<group>";
+		};
 		831010984454C5D2C5B2BCFB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -836,11 +1078,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				590DF578217713F50002EE22 /* Play@2x.png in Resources */,
+				5955AFF521781CEC000A1405 /* UPDateVC.xib in Resources */,
+				590DF575217713F50002EE22 /* Camera_Turn@2x.png in Resources */,
 				593170431FC6704B0062D81E /* license in Resources */,
 				593170091FC66BC60062D81E /* LaunchScreen.storyboard in Resources */,
+				5955AFE921781C15000A1405 /* utouu@2x.png in Resources */,
 				5945C9621FC7F4FD002DD496 /* WQTempItem1.xib in Resources */,
+				590DF5512176E4F30002EE22 /* TZImagePickerController.bundle in Resources */,
+				590DF576217713F50002EE22 /* Delete@2x.png in Resources */,
 				591D6691201B30EA0030B874 /* IQKeyboardManager.bundle in Resources */,
 				593170061FC66BC60062D81E /* Assets.xcassets in Resources */,
+				590DF577217713F50002EE22 /* focus@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -919,17 +1168,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				590DF57E217713F50002EE22 /* UTLiteCameraViewController.m in Sources */,
 				593170A91FC6A88F0062D81E /* WQTabBar.m in Sources */,
 				591D668A201B30EA0030B874 /* IQKeyboardReturnKeyHandler.m in Sources */,
 				591D668C201B30EA0030B874 /* IQBarButtonItem.m in Sources */,
 				591D6687201B30EA0030B874 /* IQUIViewController+Additions.m in Sources */,
 				591D6684201B30EA0030B874 /* IQUIScrollView+Additions.m in Sources */,
+				5955AFED21781C15000A1405 /* UTVersionUpdate.m in Sources */,
 				593170A31FC69B680062D81E /* WQTempItem3.m in Sources */,
 				5945C9611FC7F4FD002DD496 /* WQTempItem1.m in Sources */,
 				591D668D201B30EA0030B874 /* IQPreviousNextView.m in Sources */,
+				590DF5592176E4F30002EE22 /* UIView+Layout.m in Sources */,
 				591D668B201B30EA0030B874 /* IQTextView.m in Sources */,
+				590DF5572176E4F30002EE22 /* TZProgressView.m in Sources */,
+				590DF54B2176E4F30002EE22 /* NSBundle+TZImagePicker.m in Sources */,
+				590DF5542176E4F30002EE22 /* TZPhotoPickerController.m in Sources */,
+				590DF580217713F50002EE22 /* UTLiteCameraRecoder.m in Sources */,
+				590DF57D217713F50002EE22 /* UTLiteCameraPlayerViewController.m in Sources */,
 				593170451FC6704B0062D81E /* UIView+Toast.m in Sources */,
 				591D668F201B30EA0030B874 /* IQToolbar.m in Sources */,
+				590DF54F2176E4F30002EE22 /* TZImageCropManager.m in Sources */,
 				5931707B1FC6987E0062D81E /* WQBaseTaleView.m in Sources */,
 				593170AC1FC6B3900062D81E /* WQLeftMenuViewController.m in Sources */,
 				593170A01FC69AF30062D81E /* WQTempItem2.m in Sources */,
@@ -937,32 +1195,54 @@
 				593170AF1FC6BED00062D81E /* WQTabbarButton.m in Sources */,
 				591D6655201B02F60030B874 /* UIViewController+TunTransition.m in Sources */,
 				591D6690201B30EA0030B874 /* IQUIView+IQKeyboardToolbar.m in Sources */,
+				590DF5552176E4F30002EE22 /* TZPhotoPreviewCell.m in Sources */,
 				5931705D1FC67AF60062D81E /* UITableView+WYTableView.m in Sources */,
 				59316FFE1FC66BC60062D81E /* AppDelegate.m in Sources */,
+				5955AFEB21781C15000A1405 /* UTUpdateAlertView.m in Sources */,
+				590DF57C217713F50002EE22 /* UTLiteCameraPlayerView.m in Sources */,
 				591D665D201B24B20030B874 /* CALayer+XibConfiguration.m in Sources */,
 				593170B91FC6CCE20062D81E /* WQTempItem4.m in Sources */,
 				5931705F1FC67AF60062D81E /* UIWebView+WYWebView.m in Sources */,
+				590DF586217714150002EE22 /* UTButton.m in Sources */,
 				591D6685201B30EA0030B874 /* IQUITextFieldView+Additions.m in Sources */,
 				5931707A1FC6987E0062D81E /* WQBaseNavigationController.m in Sources */,
 				5931705C1FC67AF50062D81E /* UIScrollView+WYScrollView.m in Sources */,
+				590DF581217713F50002EE22 /* UTLiteCameraSession.m in Sources */,
 				593170841FC698B70062D81E /* RECommonFunctions.m in Sources */,
+				590DF5582176E4F30002EE22 /* TZVideoPlayerController.m in Sources */,
+				590DF57F217713F50002EE22 /* UTLiteCameraProgressView.m in Sources */,
 				591D6686201B30EA0030B874 /* IQUIView+Hierarchy.m in Sources */,
 				593170621FC67B370062D81E /* UIView+SFrame.m in Sources */,
+				590DF587217714150002EE22 /* UTViewController.m in Sources */,
+				590DF5562176E4F30002EE22 /* TZPhotoPreviewController.m in Sources */,
+				5955AFEA21781C15000A1405 /* UTUpdateAlertTool.m in Sources */,
 				591D6688201B30EA0030B874 /* IQUIWindow+Hierarchy.m in Sources */,
 				593170851FC698B70062D81E /* RESideMenu.m in Sources */,
+				590DF5502176E4F30002EE22 /* TZImageManager.m in Sources */,
 				591D6683201B30EA0030B874 /* IQNSArray+Sort.m in Sources */,
 				5931707C1FC6987E0062D81E /* WQBaseViewController.m in Sources */,
+				5955AFF421781CEC000A1405 /* UPDateVC.m in Sources */,
+				590DF579217713F50002EE22 /* UTLiteCameraConfiguration.m in Sources */,
 				591D668E201B30EA0030B874 /* IQTitleBarButtonItem.m in Sources */,
 				59316FFB1FC66BC60062D81E /* main.m in Sources */,
 				593170581FC67AF50062D81E /* UIButton+WYButton.m in Sources */,
 				5931705E1FC67AF60062D81E /* UIView+WYView.m in Sources */,
+				590DF5532176E4F30002EE22 /* TZLocationManager.m in Sources */,
+				590DF57A217713F50002EE22 /* UTLiteCameraManager.m in Sources */,
 				5931705A1FC67AF50062D81E /* UIImageView+WYImageView.m in Sources */,
 				593170981FC69A190062D81E /* WQTabBarController.m in Sources */,
+				590DF54C2176E4F30002EE22 /* TZAssetCell.m in Sources */,
+				590DF57B217713F50002EE22 /* UIImage+UTLiteCameraPlayer.m in Sources */,
 				5931705B1FC67AF50062D81E /* UILabel+WYLabel.m in Sources */,
 				597555EF1FCBAA2A00EDE428 /* UIView+CMKit.m in Sources */,
 				591D6689201B30EA0030B874 /* IQKeyboardManager.m in Sources */,
+				590DF54E2176E4F30002EE22 /* TZGifPhotoPreviewController.m in Sources */,
 				593170591FC67AF50062D81E /* UICollectionViewFlowLayout+WYLayout.m in Sources */,
+				590DF54D2176E4F30002EE22 /* TZAssetModel.m in Sources */,
+				5955AFEC21781C15000A1405 /* UTUpdateAlertViewController.m in Sources */,
+				590DF5522176E4F30002EE22 /* TZImagePickerController.m in Sources */,
 				593170861FC698B70062D81E /* UIViewController+RESideMenu.m in Sources */,
+				590DF55A2176E4F30002EE22 /* WQImagePickerManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

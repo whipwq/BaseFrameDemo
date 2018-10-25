@@ -68,16 +68,16 @@ static int badgeNum = 0;
 - (void)setupChildViewController {
     
     WQTempItem1 *item1 = [[WQTempItem1 alloc] init];
-    [self addChildVc:item1 title:@"Item1" image:@"common_mainbav_my_n" selectedImage:@"common_mainbav_my_s"];
+    [self addChildVc:item1 title:@"功能封装" image:@"common_mainbav_my_n" selectedImage:@"common_mainbav_my_s"];
     
     WQTempItem2 *item2 = [[WQTempItem2 alloc] init];
-    [self addChildVc:item2 title:@"Item2" image:@"common_mainbav_project_n" selectedImage:@"common_mainbav_project_s"];
+    [self addChildVc:item2 title:@"界面封装" image:@"common_mainbav_project_n" selectedImage:@"common_mainbav_project_s"];
     
     WQTempItem3 *item3 = [[WQTempItem3 alloc] init];
-    [self addChildVc:item3 title:@"Item3" image:@"common_mainbav_cloud_n" selectedImage:@"common_mainbav_cloud_s"];
+    [self addChildVc:item3 title:@"category" image:@"common_mainbav_cloud_n" selectedImage:@"common_mainbav_cloud_s"];
     
     WQTempItem4 *item4 = [[WQTempItem4 alloc] init];
-    [self addChildVc:item4 title:@"Item4" image:@"common_mainbav_massage_n" selectedImage:@"common_mainbav_massage_s"];
+    [self addChildVc:item4 title:@"其他" image:@"common_mainbav_massage_n" selectedImage:@"common_mainbav_massage_s"];
 }
 /**
  *  添加一个子控制器
